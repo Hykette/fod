@@ -1,0 +1,9 @@
+*.o
+*.exe
+*.ppu
+*.txt
+*.dat
+*tempCodeRunnerFile*
+prueba.dat
+prueba.pas
+prueba1.pas
